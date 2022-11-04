@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NocturnusCoder
 - 👀 I’m interested in html, CSS, JS, and Web3
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and solidity
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
