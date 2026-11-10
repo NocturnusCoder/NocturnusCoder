@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @NocturnusCoder
-- 👀 I’m interested in Web3 and mainly security !!!
-- 🌱 I’m currently learning Solidity and EVM
+👋 Hi, I’m @NocturnusCoder
 
 <!---
 NocturnusCoder/NocturnusCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
